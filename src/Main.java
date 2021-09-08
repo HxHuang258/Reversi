@@ -24,10 +24,7 @@ public class Main
 		player1 = new BlackPlayer();
 		player2 = new WhitePlayer();
 		//add a frame to see how boardState changes
-//		Frame state = new Frame("BoardState");
-//		state.checkFrame();
-		
-		//at the end 
+
 	}
 	
 	public static void main(String[] args)
